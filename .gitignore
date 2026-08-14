@@ -18,6 +18,9 @@ target/
 *.iws
 *.iml
 *.ipr
+*.log
+hs_err_pid*
+replay_pid*
 
 ### NetBeans ###
 /nbproject/private/
